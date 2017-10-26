@@ -1,2 +1,3 @@
 In this file, I have made few changes.
 This should be reflected when I ll create a PR.
+Now u have learn how to accept a PR, I ll show you how to set the upstream so that ur a branch conventionally called upstream (u can name it as u wish), remains in sync with the Original author. Then u c can do a git diff upstream with ur current branch.
